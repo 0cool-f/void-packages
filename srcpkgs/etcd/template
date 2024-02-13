@@ -1,5 +1,6 @@
 # Template file for 'etcd'
 pkgname=etcd
+reverts=3.5.12_1
 version=3.4.30
 revision=1
 build_style=go
