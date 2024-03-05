@@ -1333,7 +1333,7 @@ libunwind-setjmp.so.0 libunwind-1.5.0_3
 libmicrohttpd.so.12 libmicrohttpd-0.9.73_1
 libmicrodns.so.1 libmicrodns-0.2.0_1
 libgit2.so.1.6 libgit2-1.6.4_1
-libgit2-glib-1.0.so.0 libgit2-glib-0.23.4_1
+libgit2-glib-1.0.so.0 libgit2-glib-1.2.0_1
 libagg.so.2 agg-2.5_1
 libzzip-0.so.13 zziplib-0.13.62_1
 libzzipfseeko-0.so.13 zziplib-0.13.62_1
@@ -3446,6 +3446,7 @@ libmysqlpp.so.3 mysql++-3.2.5_1
 libKF5Syndication.so.5 syndication-5.50.0_1
 liblqr-1.so.0 liblqr-0.4.2_1
 libmozjs-102.so.0 mozjs102-102.3.0_1
+libmozjs-115.so.0 mozjs115-115.8.0_1
 libebur128.so.1 libebur128-1.2.4_1
 libgtksourceview-4.so.0 gtksourceview4-4.0.2_1
 libgtksourceview-5.so.0 gtksourceview5-5.2.0_1
