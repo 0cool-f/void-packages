@@ -808,6 +808,7 @@ libXss.so.1 libXScrnSaver-1.1.3_1
 libyelp.so.0 yelp-3.36.0_1
 libpeas-1.0.so.0 libpeas-1.0.0_2
 libpeas-gtk-1.0.so.0 libpeas-1.0.0_2
+libpeas-2.so.0 libpeas2-2.0.1_1
 libtotem.so.0 libtotem-3.6.2_1
 libclutter-1.0.so.0 clutter-1.14.0_1
 libavfs.so.0 libavfs-1.0.5_1
@@ -1944,6 +1945,9 @@ libsysstat-qt5.so.0 libsysstat-0.3.2_1
 libpolkit-qt5-agent-1.so.1 polkit-qt5-0.112.0_1
 libpolkit-qt5-gui-1.so.1 polkit-qt5-0.112.0_1
 libpolkit-qt5-core-1.so.1 polkit-qt5-0.112.0_1
+libpolkit-qt6-core-1.so.1 polkit-qt6-0.200.0_1
+libpolkit-qt6-gui-1.so.1 polkit-qt6-0.200.0_1
+libpolkit-qt6-agent-1.so.1 polkit-qt6-0.200.0_1
 libfm-qt.so.14 libfm-qt-1.4.0_1
 libqtermwidget5.so.1 qtermwidget-1.0.0_1
 libmd4c.so.0 libmd4c-0.4.8_1
@@ -3049,8 +3053,7 @@ libgutenprint.so.9 gutenprint-5.3.3_1
 libunbound.so.8 libunbound-1.13.1_2
 libmirage.so.11 libmirage-3.1.0_1
 libwkhtmltox.so.0 libwkhtmltopdf-0.12.5_1
-libsysprof-4.so sysprof-3.37.90_1
-libsysprof-ui-5.so sysprof-3.46.0_1
+libsysprof-6.so.6 libsysprof-45.1_1
 libvala-0.56.so.0 libvala-0.56.0_1
 libvaladoc-0.56.so.0 libvaladoc-0.56.0_1
 libvalaccodegen.so libvala-0.44.0_1
