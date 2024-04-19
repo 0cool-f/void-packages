@@ -97,11 +97,12 @@ libmagic.so.1 libmagic-5.12_1
 libbluetooth.so.3 libbluetooth-4.58_1
 libwmf-0.2.so.7 libwmf-0.2.8.4_1
 libwmflite-0.2.so.7 libwmf-0.2.8.4_1
-libgthread-2.0.so.0 glib-2.76.0_1
-libglib-2.0.so.0 glib-2.76.0_1
-libgmodule-2.0.so.0 glib-2.76.0_1
-libgio-2.0.so.0 glib-2.76.0_1
-libgobject-2.0.so.0 glib-2.76.0_1
+libgthread-2.0.so.0 glib-2.80.0_1
+libglib-2.0.so.0 glib-2.80.0_1
+libgmodule-2.0.so.0 glib-2.80.0_1
+libgio-2.0.so.0 glib-2.80.0_1
+libgobject-2.0.so.0 glib-2.80.0_1
+libgrepository-2.0.so.0 glib-2.80.0_1
 libwt.so.4.10.4 wt-4.10.4_1
 libwtdbo.so.4.10.4 wt-4.10.4_1
 libwtdbosqlite3.so.4.10.4 wt-4.10.4_1
@@ -595,7 +596,6 @@ libgnome-menu-3.so.0 gnome-menus-2.91.6_1
 libart_lgpl_2.so.2 libart-2.3.20_1
 libgnomecanvas-2.so.0 libgnomecanvas-2.30.1_1
 libgnomecanvasmm-2.6.so.1 libgnomecanvasmm-2.26.0_1
-libgnome-keyring.so.0 libgnome-keyring-3.0.0_1
 libical.so.3 libical-3.0.4_1
 libical_cxx.so.3 libical-3.0.4_1
 libicalss.so.3 libical-3.0.4_1
@@ -606,7 +606,7 @@ libcamel-1.2.so.64 evolution-data-server-3.46.0_1
 libebackend-1.2.so.11 evolution-data-server-3.46.0_1
 libebook-1.2.so.21 evolution-data-server-3.46.0_1
 libebook-contacts-1.2.so.4 evolution-data-server-3.46.0_1
-libecal-2.0.so.2 evolution-data-server-3.46.0_1
+libecal-2.0.so.3 evolution-data-server-3.52.0_1
 libedata-book-1.2.so.27 evolution-data-server-3.46.0_1
 libedataserver-1.2.so.27 evolution-data-server-3.46.0_1
 libedataserverui-1.2.so.4 evolution-data-server-3.46.0_1
@@ -2569,7 +2569,7 @@ libhwloc.so.15 libhwloc-2.0.4_1
 libnetfilter_cttimeout.so.1 libnetfilter_cttimeout-1.0.0_1
 libnetfilter_cthelper.so.0 libnetfilter_cthelper-1.0.0_1
 libnetfilter_queue.so.1 libnetfilter_queue-1.0.2_1
-libfilezilla.so.42 libfilezilla-0.46.0_1
+libfilezilla.so.43 libfilezilla-0.47.0_1
 libtommath.so.1 libtommath-1.0_1
 libKF5ItemViews.so.5 kitemviews-5.26.0_1
 libunicorn.so.1 unicorn-1.0_1
